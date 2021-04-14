@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
 @RunWith(DataProviderRunner.class)
-public class RestAssuredDataDrivenExamples {
+public class RestAssuredDataDrivenTest {
 
     private RequestSpecification requestSpec;
 
